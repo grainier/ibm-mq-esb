@@ -1,4 +1,4 @@
-# Instructions to Install IBM MQ 8.0.0.3 client jars to WSO2 ESB.
+# Instructions to Install IBM MQ 8.0.0.4 client jars to WSO2 ESB.
 
 ## Prerequisites
 
@@ -6,7 +6,7 @@
 
 2) Install Apache Maven 3.X and Set MAVEN_HOME and M2 environment variables
 
-3) IBM MQ 8.0.0.3 Java libraries (jars)
+3) IBM MQ 8.0.0.4 Java libraries (jars)
 
 ## Build Instructions
 
